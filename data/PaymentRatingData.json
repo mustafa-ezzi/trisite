@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "rating": 4.7,
+    "name": "Capterra",
+    "desc": "Top Customer Fulfilment"
+  },
+  {
+    "id": 2,
+    "rating": 4.6,
+    "name": "Capterra",
+    "desc": "Best Payment Software"
+  },
+  {
+    "id": 3,
+    "rating": 4.9,
+    "name": "Trustpilot",
+    "desc": "Top Payment Company"
+  }
+]

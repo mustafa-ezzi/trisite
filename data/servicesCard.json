@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "svg": "/images/home-4-img/finance.svg",
+    "slug": "finance-analyse",
+    "darkSvg": "/images/home-4-img/finance-dark.svg",
+    "title": "Real-Time Analytics",
+    "description": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it",
+    "button": "See More"
+  },
+  {
+    "id": 2,
+    "svg": "/images/home-4-img/investment.svg",
+    "slug": "effeciency",
+    "darkSvg": "/images/home-4-img/investment-dark.svg",
+    "title": "Risk Management",
+    "description": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it",
+    "button": "See More"
+  },
+  {
+    "id": 3,
+    "svg": "/images/home-4-img/sales.svg",
+    "slug": "sales",
+    "darkSvg": "/images/home-4-img/sales-dark.svg",
+    "title": "Sales Management",
+    "description": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it",
+    "button": "See More"
+  },
+  {
+    "id": 4,
+    "svg": "/images/home-4-img/track.svg",
+    "slug": "finance-analyse",
+    "darkSvg": "/images/home-4-img/track-dark.svg",
+    "title": "Track Conversions",
+    "description": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it",
+    "button": "See More"
+  }
+]

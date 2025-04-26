@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Create Account to Install",
+    "lightImg": "/images/home-4-img/account.png",
+    "darkImg": "/images/home-4-img/account-dark.png"
+  },
+  {
+    "id": 2,
+    "title": "Set Up Analytic Process",
+    "lightImg": "/images/home-4-img/account-process.png",
+    "darkImg": "/images/home-4-img/account-process-dark.png"
+  },
+  {
+    "id": 3,
+    "title": "Reset Data After Solutions",
+    "lightImg": "/images/home-4-img/account-solutions.png",
+    "darkImg": "/images/home-4-img/account-solutions-dark.png"
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "logo": "/images/logo.svg",
+  "logoDark": "/images/logo-light.svg",
+  "footerText": "Turpis tortor nunc sed amet et faucibus vitae morbi congue sed id mauris.",
+  "copyright": "2024 Trisite Solutions. All Rights Reserved",
+  "email": "Website@trisitesolutions.com",
+  "phone": "+92 335 4524042",
+  "explore": [
+    {
+      "id": 1,
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "id": 2,
+      "name": "Services",
+      "link": "/services"
+    },
+    {
+      "id": 5,
+      "name": "Pricing",
+      "link": "/price"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "name": "Banking",
+      "link": "/banking"
+    },
+    {
+      "id": 2,
+      "name": "Team",
+      "link": "/team"
+    },
+    {
+      "id": 3,
+      "name": "Integration",
+      "link": "/integration"
+    },
+    {
+      "id": 4,
+      "name": "Blog",
+      "link": "/blog"
+    },
+    {
+      "id": 5,
+      "name": "Log In",
+      "link": "/login"
+    },
+    {
+      "id": 6,
+      "name": "Sign Up",
+      "link": "/signup"
+    },
+    {
+      "id": 7,
+      "name": "404",
+      "link": "/error"
+    }
+  ]
+}

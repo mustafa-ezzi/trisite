@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Choose Domain",
+    "description": "Choose a domain name that reflects your website's purpose, content, or the nature of your business."
+  },
+  {
+    "id": 2,
+    "title": "Login/Register",
+    "description": "Take the first step towards creating your website and reaching a wider audience by registering today."
+  },
+  {
+    "id": 3,
+    "title": "Make Payment",
+    "description": "We offer a variety of secure payment methods to make your payment process convenient and hassle-free."
+  }
+]

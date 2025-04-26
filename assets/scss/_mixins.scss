@@ -1,0 +1,22 @@
+// Marquee CSS
+.marquee-items {
+  @apply py-8 px-0
+}
+.marquee-content-list {
+  @apply relative !m-0 !min-w-[215px] flex items-center justify-center;
+  @apply after:absolute after:overflow-hidden after:right-0 after:top-1/2 after:h-[40px] after:w-[1px] after:-translate-y-1/2 after:content-[url('../../public/images/clients/client-item-border.svg')] dark:after:content-[url('../../public/images/clients/client-item-border-dark.svg')];
+}
+
+.tab-content {
+  > .tab-pane {
+    display: none;
+
+    &.tabActive {
+      display: block;
+    }
+  }
+
+  > .tabActive {
+    display: block;
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": ["general", "changelog"],
+    "open": true,
+    "question": "What is a business agency?",
+    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+  },
+  {
+    "id": 2,
+    "type": ["general"],
+    "open": true,
+    "question": "What services does a business agency provide?",
+    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+  },
+  {
+    "id": 3,
+    "type": ["general", "changelog"],
+    "open": false,
+    "question": "How often should I update my website?",
+    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+  },
+  {
+    "id": 4,
+    "type": ["general", "terms"],
+    "open": false,
+    "question": "How do subscriptions work?",
+    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+  },
+  {
+    "id": 5,
+    "type": ["changelog", "terms"],
+    "open": false,
+    "question": "What other services are you compatible with?",
+    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+  }
+]

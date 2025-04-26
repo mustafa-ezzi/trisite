@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Useful Features",
+    "iconLight": "/images/payment/invoice.svg",
+    "iconDark": "/images/payment/invoice-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  },
+  {
+    "id": 2,
+    "title": "Insights and Reports",
+    "iconLight": "/images/payment/insight.svg",
+    "iconDark": "/images/payment/insight-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  },
+  {
+    "id": 3,
+    "title": "Managing Inventory",
+    "iconLight": "/images/payment/inventory.svg",
+    "iconDark": "/images/payment/inventory-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  },
+  {
+    "id": 4,
+    "title": "Organized Expense",
+    "iconLight": "/images/payment/expens.svg",
+    "iconDark": "/images/payment/expens-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  },
+  {
+    "id": 5,
+    "title": "Organize Receipts",
+    "iconLight": "/images/payment/receipts.svg",
+    "iconDark": "/images/payment/receipts-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  },
+  {
+    "id": 6,
+    "title": "Mobile App",
+    "iconLight": "/images/payment/app.svg",
+    "iconDark": "/images/payment/app-dark.svg",
+    "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+  }
+]

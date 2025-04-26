@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Manage Project Finances",
+    "lightImg": "/images/home-4-img/data1.png",
+    "darkImg": "/images/home-4-img/data1-dark.png",
+    "desc": "Lorem ipsum dolor sit amet consectur suspen ultricies aenean viverra sodales vulputate nis tellus nibh tristique sit felis."
+  },
+  {
+    "id": 2,
+    "title": "Streamlined Data Processes",
+    "lightImg": "/images/home-4-img/data2.png",
+    "darkImg": "/images/home-4-img/data2-dark.png",
+    "desc": "Lorem ipsum dolor sit amet consectur suspen ultricies aenean viverra sodales vulputate nis tellus nibh tristique sit felis."
+  },
+  {
+    "id": 3,
+    "title": "Understand User Behavior",
+    "lightImg": "/images/home-4-img/data3.png",
+    "darkImg": "/images/home-4-img/data3-dark.png",
+    "desc": "Lorem ipsum dolor sit amet consectur suspen ultricies aenean viverra sodales vulputate nis tellus nibh tristique sit felis."
+  }
+]
