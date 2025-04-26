@@ -14,9 +14,6 @@ const modal = ref(false);
 const openModal = () => {
   modal.value = !modal.value;
 };
-const refreshAndGo = (url) => {
-  window.location.href = url;
-};
 </script>
 
 <template>
@@ -81,10 +78,15 @@ const refreshAndGo = (url) => {
               class="absolute max-1xl:right-0 -right-25 bottom-0 max-md:hidden animate-floatingDown"
             />
 
-            <p class="max-lg:mb-4 mb-8 font-medium uppercase"> Trisite Solutions</p>
-            <h1 class="mb-12 max-md:mb-8">
+            <!-- <p class="max-lg:mb-4 mb-8 font-medium uppercase"> Trisite Solutions</p> -->
+            <p class="max-lg:mb-4 mb-8 font-medium uppercase"> This is Mustafa's website</p>
+
+            <!-- <h1 class="mb-12 max-md:mb-8">
               Easily create professional <br />
               websites.
+            </h1> -->
+            <h1 class="mb-12 max-md:mb-8">
+              So all both of partners just fuck off
             </h1>
             <p class="mb-12 max-md:mb-8 max-w-[590px] mx-auto">
               Create stunning websites in moments, filled with engaging content
@@ -95,7 +97,7 @@ const refreshAndGo = (url) => {
               class="mb-10 flex max-md:flex-col items-center justify-center gap-4 mx-auto"
             >
               <NuxtLink
-                to="/price" @click.prevent="refreshAndGo('/price')"
+                to="/price"
                 class="bg-white dark:!bg-white dark:!text-paragraph btn-outline"
               >
                 View plan and pricing
