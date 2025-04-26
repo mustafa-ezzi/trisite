@@ -4,21 +4,24 @@
     "featured": false,
     "title": "Basic",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "19.00",
+    "priceMonthly": "500.00",
     "priceYearly": "230.00",
     "save": "",
     "priceList": [
       {
-        "name": "Track income & expenses"
+        "name": "Up to 3 static pages (e.g. Home, About, Contact)"
       },
       {
-        "name": "Send custom invoices & quotes"
+        "name": "Template-based layout, mobile responsive"
       },
       {
-        "name": "Connect your bank"
+        "name": "Contact form, basic SEO, social media links"
       },
       {
-        "name": "Insights & reports"
+        "name": "Standard loading time optimization"
+      },
+      {
+        "name": "1 revision, 1 week bug support"
       }
     ]
   },
@@ -27,21 +30,27 @@
     "featured": true,
     "title": "Standard",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "32.00",
+    "priceMonthly": "1,000.00",
     "priceYearly": "350.00",
     "save": "40%",
     "priceList": [
       {
-        "name": "Track income & expenses"
+        "name": "4-7 pages including blogs, services, gallery, etc."
       },
       {
-        "name": "Send custom invoices & quotes"
+        "name": "Fully custom UI design, tailored to brand"
       },
       {
-        "name": "Connect your bank"
+        "name": "Blog setup, image sliders, basic animations"
       },
       {
-        "name": "Insights & reports"
+        "name": "Optimized images, lazy loading"
+      },
+      {
+        "name": "Optional simple admin panel for blog edits "
+      },
+      {
+        "name": "3 revisions, 1-month free support "
       }
     ]
   },
@@ -50,21 +59,27 @@
     "featured": false,
     "title": "Premium",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "48.00",
+    "priceMonthly": "2,000+.00",
     "priceYearly": "530.00",
     "save": "",
     "priceList": [
       {
-        "name": "Track income & expenses"
+        "name": "8+ pages or CMS-based, including dynamic content handling"
       },
       {
-        "name": "Send custom invoices & quotes"
+        "name": "High-end design, UI/UX focused, animations, "
       },
       {
-        "name": "Connect your bank"
+        "name": "Advanced features: dashboards, user auth, payments, API integrations"
       },
       {
-        "name": "Insights & reports"
+        "name": "Performance-boosted with caching, CDN setup, speed scoring"
+      },
+      {
+        "name": "Full admin panel (CRUD, analytics, management tools)"
+      },
+      {
+        "name": "Unlimited revisions (within scope), 3 months premium support"
       }
     ]
   }
