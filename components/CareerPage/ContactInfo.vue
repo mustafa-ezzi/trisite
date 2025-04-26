@@ -26,7 +26,7 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
             >
               <HomeSvg />
               <h3 class="mb-2.5">Our Address</h3>
-              <p>2464 Royal Ln. Mesa, New Jersey 45463</p>
+              <p>Anda More, Randi khana chawrangi, Karachi, Pakistan</p>
             </div>
           </div>
 
@@ -41,7 +41,7 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
             >
               <EmailSvg />
               <h3 class="mb-2.5">Email Us</h3>
-              <a href="mailto:hallo@aplio.com"> hallo@aplio.com </a>
+              <a href="Website@trisitesolutions.com"> Website@trisitesolutions.com </a>
             </div>
           </div>
 
@@ -56,7 +56,7 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
             >
               <TelePhoneSvg />
               <h3 class="mb-2.5">Call Us</h3>
-              <a href="tel:+391(0)355684593">+391 (0)35 2568 4593</a>
+              <a href="tel:+92 335 4524042">+92 335 4524042</a>
             </div>
           </div>
         </div>
