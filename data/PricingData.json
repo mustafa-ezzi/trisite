@@ -4,7 +4,7 @@
     "featured": false,
     "title": "Basic",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "500.00",
+    "priceMonthly": "250.00",
     "priceYearly": "230.00",
     "save": "",
     "priceList": [
@@ -30,7 +30,7 @@
     "featured": true,
     "title": "Standard",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "1,000.00",
+    "priceMonthly": "700.00",
     "priceYearly": "350.00",
     "save": "40%",
     "priceList": [
@@ -59,7 +59,7 @@
     "featured": false,
     "title": "Premium",
     "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
-    "priceMonthly": "2,000+.00",
+    "priceMonthly": "1,200+.00",
     "priceYearly": "530.00",
     "save": "",
     "priceList": [
