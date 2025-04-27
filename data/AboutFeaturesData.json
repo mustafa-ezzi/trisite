@@ -4,20 +4,20 @@
     "iconLight": "/images/about/passion.svg",
     "iconDark": "/images/about/passion-dark.svg",
     "title": "Our Passion",
-    "desc": "The prevailing view assumed lorem ipsum was born as nonsense text."
+    "desc": "We are driven by a deep love for what we do, bringing energy and creativity to every project we undertake.."
   },
   {
     "id": 2,
     "iconLight": "/images/about/transparency.svg",
     "iconDark": "/images/about/transparency-dark.svg",
     "title": "Transparency",
-    "desc": "The prevailing view assumed lorem ipsum was born as nonsense text."
+    "desc": "Clear communication, honest pricing, and no hidden surprises — that's how we work."
   },
   {
     "id": 3,
     "iconLight": "/images/about/mission.svg",
     "iconDark": "/images/about/mission-dark.svg",
     "title": "Our Mission",
-    "desc": "The prevailing view assumed lorem ipsum was born as nonsense text."
+    "desc": "To create powerful websites that grow your business and leave a lasting impact."
   }
 ]

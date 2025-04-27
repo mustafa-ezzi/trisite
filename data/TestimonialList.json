@@ -4,12 +4,12 @@
       "id": 1,
       "logoLight": "/images/testimonial/bodygroup.svg",
       "logoDark": "/images/testimonial/bodygroup-dark.svg",
-      "testimonial": "Mustafa",
+      "testimonial": "Trisite impressed me with their professionalism and attention to detail. The team was supportive and always a step ahead!",
       "rating": 4,
-      "date": "Feb 03, 2024",
+      "date": "Feb 03, 2021",
       "author": {
-        "name": "Robert Frost",
-        "designation": "Lead Developer",
+        "name": "Charles David",
+        "designation": "Marketing Manager",
         "image": "../"
       }
     },
@@ -17,12 +17,12 @@
       "id": 2,
       "logoLight": "/images/testimonial/caudile.svg",
       "logoDark": "/images/testimonial/caudile-dark.svg",
-      "testimonial": "Mustafa",
+      "testimonial": "The creativity and professionalism shown by the Trisite team were outstanding. They understood our vision right from the start and brought it to life even better than we imagined. I appreciated how smoothly the entire process went, without any delays or surprises.",
       "rating": 5,
-      "date": "Feb 04, 2024",
+      "date": "jan 04, 2022",
       "author": {
         "name": "Guy Hawkins",
-        "designation": "Developer",
+        "designation": "Operations Head",
         "image": "/images/testimonial/avatar2.png"
       }
     },
@@ -30,12 +30,12 @@
       "id": 3,
       "logoLight": "/images/testimonial/axeptio.svg",
       "logoDark": "/images/testimonial/axeptio-dark.svg",
-      "testimonial": "Mustafa.",
+      "testimonial": "Working with Trisite was a refreshing experience. Their dedication to quality and transparency really stood out. Every deadline was met, and they maintained excellent communication throughout the project. I would highly recommend them to anyone looking for reliable service.",
       "rating": 3,
-      "date": "Feb 12, 2024",
+      "date": "july 12, 2022",
       "author": {
         "name": "Cody Fisher",
-        "designation": "UI Designer",
+        "designation": "Business Strategist",
         "image": "/images/testimonial/avatar3.png"
       }
     },
@@ -43,12 +43,12 @@
       "id": 4,
       "logoLight": "/images/testimonial/infinity.svg",
       "logoDark": "/images/testimonial/infinity-dark.svg",
-      "testimonial": "Mustafa.",
+      "testimonial": "From brainstorming sessions to final execution, Trisite handled everything with professionalism and creativity. Their team brought fresh ideas to the table and made sure our project stood out. Working with them was like having an in-house team that really understood our goals.",
       "rating": 2,
-      "date": "Feb 13, 2024",
+      "date": "apr 13, 2023",
       "author": {
-        "name": "Albert Flores",
-        "designation": "Sr. Developer",
+        "name": "Sarrah Faisal",
+        "designation": "Product Manager",
         "image": "/images/testimonial/avatar4.png"
       }
     },
@@ -56,11 +56,11 @@
       "id": 5,
       "logoLight": "/images/testimonial/mfinity.svg",
       "logoDark": "/images/testimonial/mfinity-dark.svg",
-      "testimonial": "Mustafa.",
+      "testimonial": "I can’t thank Trisite enough for the amazing experience. Their friendly approach, technical expertise, and focus on delivering real results made all the difference. They made the whole journey stress-free, and the final outcome was better than we had hoped..",
       "rating": 1,
-      "date": "Feb 23, 2024",
+      "date": "nov 23, 2022",
       "author": {
-        "name": "Floyed Miles",
+        "name": "Hatim Mustafa",
         "designation": "Junior Designer",
         "image": "/images/testimonial/avatar5.png"
       }
@@ -69,12 +69,64 @@
       "id": 6,
       "logoLight": "/images/testimonial/coolchat.svg",
       "logoDark": "/images/testimonial/coolchat-dark.svg",
-      "testimonial": "Mustafa.",
+      "testimonial": "From the very first meeting to the final delivery, the process was smooth and enjoyable. Great work ethic and great people!.",
       "rating": 5,
-      "date": "Feb 07, 2024",
+      "date": "march 07, 2023",
       "author": {
-        "name": "Bessie Cooper",
-        "designation": "Manager",
+        "name": "Javaid Munawwar",
+        "designation": "Entrepreneur",
+        "image": "/images/testimonial/avatar6.png"
+      }
+    },
+    {
+      "id": 7,
+      "logoLight": "/images/testimonial/coolchat.svg",
+      "logoDark": "/images/testimonial/coolchat-dark.svg",
+      "testimonial": "Working with Trisite was seamless from start to finish. The team was quick to adapt to our requirements and delivered exactly what we needed. Their responsiveness and professionalism were top-notch. Will definitely collaborate again!.",
+      "rating": 5,
+      "date": "jul 17, 2024",
+      "author": {
+        "name": "Emily Carter",
+        "designation": "Digital Marketing Consultant (UK)",
+        "image": "/images/testimonial/avatar6.png"
+      }
+    },
+    {
+      "id": 8,
+      "logoLight": "/images/testimonial/coolchat.svg",
+      "logoDark": "/images/testimonial/coolchat-dark.svg",
+      "testimonial": "Our experience with Trisite was outstanding. They understood the technical complexities of our project and made the process so smooth. Communication across time zones was never an issue — really impressed with their dedication!",
+      "rating": 5,
+      "date": "sept 07, 2024",
+      "author": {
+        "name": "Hira Sheikh",
+        "designation": "EntreBusiness Owner",
+        "image": "/images/testimonial/avatar6.png"
+      }
+    },
+    {
+      "id": 9,
+      "logoLight": "/images/testimonial/coolchat.svg",
+      "logoDark": "/images/testimonial/coolchat-dark.svg",
+      "testimonial": "Trisite delivered beyond our expectations. Their team's professionalism, creativity, and commitment to quality were evident from day one. It's great to see such talent in Pakistan — truly world-class service!.",
+      "rating": 5,
+      "date": "oct 15, 2024",
+      "author": {
+        "name": "Daniel Lee",
+        "designation": "Startup Founder",
+        "image": "/images/testimonial/avatar6.png"
+      }
+    },
+    {
+      "id": 10,
+      "logoLight": "/images/testimonial/coolchat.svg",
+      "logoDark": "/images/testimonial/coolchat-dark.svg",
+      "testimonial": "I'm really happy with how Trisite managed our project. They understood our needs, provided expert suggestions, and delivered an amazing end product. Highly recommended to anyone looking for reliable and skilled professionals locally!.",
+      "rating": 5,
+      "date": "march 05, 2025",
+      "author": {
+        "name": "Ahsan Tariq",
+        "designation": "IT Manager",
         "image": "/images/testimonial/avatar6.png"
       }
     }
