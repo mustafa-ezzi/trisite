@@ -33,28 +33,7 @@ const pricingFun = (value) => {
           </p>
         </div>
 
-        <div class="pricing mt-4">
-          <label
-            class="relative z-[110] inline-flex cursor-pointer items-center"
-          >
-            <span
-              class="mr-2.5 text-base font-semibold text-paragraph dark:text-white py-5"
-              >Monthly</span
-            >
-            <input
-              type="checkbox"
-              class="peer sr-only"
-              @change="(e) => pricingFun(e.target.checked)"
-            />
-            <div
-              class="relative h-[34px] w-15 rounded-[20px] bg-black before:absolute before:left-1/2 before:top-1/2 before:h-[calc(100%-10px)] before:w-[calc(100%-10px)] before:-translate-x-1/2 before:-translate-y-1/2 before:rounded-[20px] before:border before:border-dashed before:border-white/40 before:content-[''] after:absolute after:start-[5px] after:top-1/2 after:h-6 after:w-6 after:-translate-y-1/2 after:rounded-full after:bg-primary after:transition-all after:content-[''] peer-checked:after:start-[7px] peer-checked:after:translate-x-full"
-            ></div>
-            <span
-              class="ms-2.5 text-base font-semibold text-paragraph dark:text-white py-5"
-              >Yearly
-            </span>
-          </label>
-        </div>
+        
       </div>
 
       <div class="relative md:z-10">

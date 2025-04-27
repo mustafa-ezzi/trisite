@@ -25,6 +25,6 @@ useHead({
   <Services />
   <MemberCounter />
   <Pricing />
-  <CtaV3 class="pt-150" />
+  <!-- <CtaV3 class="p/t-150" /> -->
   <Footer />
 </template>
