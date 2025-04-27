@@ -26,7 +26,7 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
             >
               <HomeSvg />
               <h3 class="mb-2.5">Our Address</h3>
-              <p>Anda More, Randi khana chawrangi, Karachi, Pakistan</p>
+              <p>Burhani Circle,North nazimabad, Karachi, Pakistan</p>
             </div>
           </div>
 
