@@ -13,18 +13,14 @@ useHead({
 });
 </script>
 
+
 <template>
   <ThemeSwitcher />
   <SecondaryNav />
-  <PageHero
-    sub-title="OUR SERVICES"
-    title=" The world’s best companies trust aplio"
-    description=" Until recently, the prevailing view assumed lorem ipsum was born as a
-          nonsense text. It's not Latin, though it looks like it"
-  />
+  <PageHero sub-title="OUR SERVICES" title="Empowering Businesses Through Technology"
+    description="At Trisite Solutions, we build powerful software tailored to your needs — from web apps to custom digital solutions. Trusted by startups and enterprises alike, we turn your ideas into reality." />
   <Services />
-  <MemberCounter />
+  <!-- <MemberCounter /> -->
   <Pricing />
-  <!-- <CtaV3 class="p/t-150" /> -->
   <Footer />
 </template>

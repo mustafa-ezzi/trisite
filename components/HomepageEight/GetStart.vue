@@ -20,7 +20,7 @@ const aiStartData = ref([
     title: "User-friendly website ",
     description:
       "Tailor every element of your website with ease. Our intuitive interface empowers you to create a unique online presence.",
-    imgLight: "/images/home-8-img/getstart-1.png",
+    imgLight: "/images/home-8-img/getstart-1.jpg",
     imgDark: "/images/home-8-img/getstart-1-dark.png",
     isFeatured: false,
   },
@@ -28,7 +28,7 @@ const aiStartData = ref([
     id: 3,
     title: "Website Solutions for Modern Businesses",
     description: "We design and develop websites that captivate visitors and convert leads—with performance in mind.",
-    imgLight: "/images/home-8-img/getstart-2.png",
+    imgLight: "/images/home-8-img/getstart-2.jpg",
     imgDark: "/images/home-8-img/getstart-2-dark.png",
     isFeatured: false,
   },
