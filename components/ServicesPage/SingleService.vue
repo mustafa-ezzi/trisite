@@ -126,7 +126,7 @@ const openModal = () => {
               </li>
             </ul>
 
-            <div
+            <!-- <div
               @click="openModal"
               class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav relative"
             >
@@ -146,7 +146,7 @@ const openModal = () => {
                   class="max-md:w-15 aspect-square"
                 />
               </a>
-            </div>
+            </div> -->
 
             <h3>Qualifications & Requirements</h3>
             <p>

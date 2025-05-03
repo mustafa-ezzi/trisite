@@ -7,7 +7,6 @@
     "iconLight": "/images/services/investment.svg",
     "iconDark": "/images/services/investment-dark.svg",
     "featureImage": "/images/services/service-single1.jpg",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "At Trisite Solutions, we build fully customized websites from scratch, aligning each feature and design element with your specific brand identity and business objectives. Whether it's a sleek portfolio or a complex corporate site, we deliver performance, scalability, and precision.",
     "serviceExpectation": "Choosing a custom website means choosing uniqueness and flexibility. Expect detailed planning, collaborative wireframing, responsive UI/UX design, and advanced functionality — all tailored to your brand.",
     "serviceExpectationList": [
@@ -30,7 +29,6 @@
     "iconLight": "/images/services/sales.svg",
     "iconDark": "/images/services/sales-dark.svg",
     "featureImage": "/images/services/service-single2.jpg",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "Trisite Solutions develops scalable e-commerce platforms designed for growth. Our custom solutions include payment integrations, product management systems, and intuitive shopping experiences that convert.",
     "serviceExpectation": "Expect a seamless shopping journey for your customers, from product browsing to secure checkout. We provide user-centric design, fast loading, and multi-device compatibility.",
     "serviceExpectationList": [
@@ -53,7 +51,6 @@
     "iconLight": "/images/services/loan.svg",
     "iconDark": "/images/services/loan-dark.svg",
     "featureImage": "/images/services/service-single3.jpg",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "At Trisite Solutions, we ensure that every website we build is responsive, delivering optimal viewing and interaction across desktops, tablets, and mobile phones.",
     "serviceExpectation": "You can expect your website to look and function perfectly on all devices, with layouts and features that adjust automatically for the best user experience.",
     "serviceExpectationList": [
@@ -76,7 +73,6 @@
     "iconLight": "/images/services/finance.svg",
     "iconDark": "/images/services/finance-dark.svg",
     "featureImage": "/images/services/service-single4.png",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "Trisite Solutions transforms outdated websites into sleek, modern platforms that deliver better performance, design, and conversions.",
     "serviceExpectation": "We assess your current site’s weaknesses and build a new experience with improved structure, visuals, and functionality — aligned with today’s digital standards.",
     "serviceExpectationList": [
@@ -99,7 +95,6 @@
     "iconLight": "/images/services/effeciency.svg",
     "iconDark": "/images/services/effeciency-dark.svg",
     "featureImage": "/images/services/service-single5.png",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "Trisite Solutions offers WordPress development with custom themes, plugins, and intuitive admin panels, giving you full control of your website without technical headaches.",
     "serviceExpectation": "Expect a WordPress site that’s fully branded, secure, SEO-ready, and easy to update — with backend training included.",
     "serviceExpectationList": [
@@ -122,7 +117,6 @@
     "iconLight": "/images/services/fund.svg",
     "iconDark": "/images/services/fund-dark.svg",
     "featureImage": "/images/services/service-single6.png",
-    "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
     "serviceDetails": "At Trisite Solutions, we provide comprehensive website maintenance services, ensuring your site remains secure, up-to-date, and running at peak performance.",
     "serviceExpectation": "With regular updates, backups, and issue fixes, you can focus on your business while we keep your site running smoothly behind the scenes.",
     "serviceExpectationList": [
