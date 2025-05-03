@@ -101,8 +101,7 @@ const openModal = () => {
               <br />
               <br />
 
-              Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu
-              lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
+              
             </p>
             <div
               class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav"
@@ -119,9 +118,7 @@ const openModal = () => {
             <p>
               {{ data?.serviceExpectation }}
               <br />
-              <br />
-              Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu
-              lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
+
             </p>
             <ul>
               <li v-for="(list, i) in data?.serviceExpectationList" :key="i">
@@ -155,9 +152,7 @@ const openModal = () => {
             <p>
               {{ data?.serviceExpectation }}
               <br />
-              <br />
-              Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu
-              lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
+
             </p>
             <ul>
               <li v-for="(list, i) in data?.serviceQualificationsList" :key="i">
