@@ -28,7 +28,6 @@ useHead({
   />
   <TestimonialSlider />
   <Counter />
-  <Team />
   <CtaV2
     title="Start your best payment <br/>
 experience now!"

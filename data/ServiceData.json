@@ -3,198 +3,138 @@
     "id": 1,
     "slug": "Custom-Website",
     "title": "Custom Website Development",
-    "excerpt": "Unique, brand-driven sites built to meet your goals, from portfolios to full e-commerce.",
+    "excerpt": "Tailored websites that reflect your brand and meet your business goals.",
     "iconLight": "/images/services/investment.svg",
     "iconDark": "/images/services/investment-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "At Trisite Solutions, we build fully customized websites from scratch, aligning each feature and design element with your specific brand identity and business objectives. Whether it's a sleek portfolio or a complex corporate site, we deliver performance, scalability, and precision.",
+    "serviceExpectation": "Choosing a custom website means choosing uniqueness and flexibility. Expect detailed planning, collaborative wireframing, responsive UI/UX design, and advanced functionality — all tailored to your brand.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Custom UI/UX tailored to your brand" },
+      { "item": "SEO-optimized and mobile-responsive" },
+      { "item": "Built for performance and scalability" }
     ],
-    "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceQualifications": "Our team ensures end-to-end development with transparent updates, dedicated project managers, and post-launch support. Trisite Solutions creates websites that are not only functional but help convert visitors into customers.",
     "serviceQualificationsList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Scalable architecture for growth" },
+      { "item": "Fast load times and clean coding" },
+      { "item": "Secure and GDPR-compliant build" }
     ]
   },
   {
     "id": 2,
     "slug": "E-Commerce-Website",
     "title": "E-Commerce Website Development",
-    "excerpt": "Scalable online stores with secure payments and smooth user experience.",
+    "excerpt": "Robust online stores with smooth shopping experiences and secure transactions.",
     "iconLight": "/images/services/sales.svg",
     "iconDark": "/images/services/sales-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "Trisite Solutions develops scalable e-commerce platforms designed for growth. Our custom solutions include payment integrations, product management systems, and intuitive shopping experiences that convert.",
+    "serviceExpectation": "Expect a seamless shopping journey for your customers, from product browsing to secure checkout. We provide user-centric design, fast loading, and multi-device compatibility.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Secure payment gateway integration" },
+      { "item": "Custom product and inventory management" },
+      { "item": "Mobile-friendly shopping interface" }
     ],
-    "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceQualifications": "From Shopify to fully custom solutions, our team ensures your store is fast, secure, and conversion-focused. Trisite Solutions helps you launch a store that grows with your business.",
     "serviceQualificationsList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Scalable infrastructure with CMS" },
+      { "item": "Custom checkout and cart design" },
+      { "item": "Analytics and conversion tracking setup" }
     ]
   },
   {
     "id": 3,
     "slug": "Responsive-Design",
     "title": "Responsive Design",
-    "excerpt": "Optimized for all devices: mobile, tablet, and desktop.",
+    "excerpt": "Designs that adapt beautifully across all screen sizes and devices.",
     "iconLight": "/images/services/loan.svg",
     "iconDark": "/images/services/loan-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "At Trisite Solutions, we ensure that every website we build is responsive, delivering optimal viewing and interaction across desktops, tablets, and mobile phones.",
+    "serviceExpectation": "You can expect your website to look and function perfectly on all devices, with layouts and features that adjust automatically for the best user experience.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Fluid grid layouts and flexible images" },
+      { "item": "Touch-friendly navigation" },
+      { "item": "Optimized performance for mobile" }
     ],
-    "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceQualifications": "We test every design thoroughly on multiple devices and browsers to ensure consistency, accessibility, and performance.",
     "serviceQualificationsList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Cross-browser compatibility" },
+      { "item": "Speed optimized on all screen sizes" },
+      { "item": "Fully mobile-first design strategy" }
     ]
   },
   {
     "id": 4,
     "slug": "website-redesign",
     "title": "Website Redesign",
-    "excerpt": "Modernize outdated sites for better speed, design, and conversions.",
+    "excerpt": "Breathe new life into your old website with modern design and features.",
     "iconLight": "/images/services/finance.svg",
     "iconDark": "/images/services/finance-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "Trisite Solutions transforms outdated websites into sleek, modern platforms that deliver better performance, design, and conversions.",
+    "serviceExpectation": "We assess your current site’s weaknesses and build a new experience with improved structure, visuals, and functionality — aligned with today’s digital standards.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "UI/UX overhaul for better engagement" },
+      { "item": "Optimized page speed and performance" },
+      { "item": "Enhanced conversion-focused layout" }
+    ],
+    "serviceQualifications": "Our redesign approach boosts both aesthetics and usability, helping your brand re-establish credibility and increase user satisfaction.",
+    "serviceQualificationsList": [
+      { "item": "Mobile-optimized redesign" },
+      { "item": "Modern design aligned with brand" },
+      { "item": "Improved navigation structure" }
     ]
   },
   {
     "id": 5,
     "slug": "wordPress-development",
     "title": "WordPress Development",
-    "excerpt": "Custom themes, plugins, and easy-to-manage WordPress solutions.",
+    "excerpt": "Flexible, easy-to-manage WordPress solutions for any business type.",
     "iconLight": "/images/services/effeciency.svg",
     "iconDark": "/images/services/effeciency-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "Trisite Solutions offers WordPress development with custom themes, plugins, and intuitive admin panels, giving you full control of your website without technical headaches.",
+    "serviceExpectation": "Expect a WordPress site that’s fully branded, secure, SEO-ready, and easy to update — with backend training included.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Custom themes and plugin development" },
+      { "item": "User-friendly admin dashboard" },
+      { "item": "SEO and speed optimization" }
     ],
-    "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceQualifications": "We ensure your site is built for longevity, with clean code, responsive layouts, and support post-launch to keep things running smoothly.",
     "serviceQualificationsList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Training and documentation included" },
+      { "item": "Regular backups and maintenance plans" },
+      { "item": "Secure login and user management" }
     ]
   },
   {
     "id": 6,
     "slug": "website-maintenance",
     "title": "Website Maintenance",
-    "excerpt": "Regular updates, backups, speed checks, and security monitoring.",
+    "excerpt": "Reliable website upkeep: updates, fixes, and performance monitoring.",
     "iconLight": "/images/services/fund.svg",
     "iconDark": "/images/services/fund-dark.svg",
     "featureImage": "/images/services/service-single1.png",
     "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
-    "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
-    "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceDetails": "At Trisite Solutions, we provide comprehensive website maintenance services, ensuring your site remains secure, up-to-date, and running at peak performance.",
+    "serviceExpectation": "With regular updates, backups, and issue fixes, you can focus on your business while we keep your site running smoothly behind the scenes.",
     "serviceExpectationList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Routine plugin/theme updates" },
+      { "item": "Security scanning and backups" },
+      { "item": "Performance and uptime monitoring" }
     ],
-    "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+    "serviceQualifications": "Our maintenance plans are flexible and proactive, helping avoid downtime, data loss, or performance drops — all managed by our expert support team.",
     "serviceQualificationsList": [
-      {
-        "item": "It’s scalable and secure"
-      },
-      {
-        "item": "Artificial Intelligence Feature"
-      },
-      {
-        "item": "Offline version available"
-      }
+      { "item": "Emergency bug fixing" },
+      { "item": "Monthly reports and analytics" },
+      { "item": "Priority technical support" }
     ]
   }
 ]

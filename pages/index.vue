@@ -32,7 +32,6 @@ useHead({
   <AiSteps />
   <RobustFeature />
   <Pricing />
-  <!-- <AiIntegration /> -->
   <Testimonial />
   <Footer />
   <WhatSapp />
