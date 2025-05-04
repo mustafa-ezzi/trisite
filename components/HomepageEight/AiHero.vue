@@ -65,7 +65,7 @@ const openModal = () => {
             <img src="/images/home-8-img/hero-shape-photo.png" alt="hero-shape"
               class="absolute max-1xl:right-0 -right-25 bottom-0 max-md:hidden animate-floatingDown" />
 
-            <p class="max-lg:mb-4 mb-8 font-medium uppercase"> Trisite Solutions</p>
+            <p class="max-lg:mb-4 mb-8 font-medium uppercase"> Trisite Solutions hehehahahhuhu</p>
 
             <h1 class="mb-12 max-md:mb-8">
               Easily create professional <br />
