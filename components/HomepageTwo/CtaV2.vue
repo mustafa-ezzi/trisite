@@ -37,7 +37,7 @@ defineProps({
           By creating a custom Web design for your business, we can bring your
           vision to life.
         </p>
-        <NuxtLink to="/contact" class="btn"> Get Started Today </NuxtLink>
+        <NuxtLink to="/services" class="btn"> Get Started Today </NuxtLink>
 
       </div>
     </div>

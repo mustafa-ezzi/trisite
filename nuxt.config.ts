@@ -25,6 +25,8 @@ export default defineNuxtConfig({
       ],
     },
   },
+  ssr: true, // or false if SPA
+
   nitro: {
     preset:'vercel',
     prerender: {
