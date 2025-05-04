@@ -27,10 +27,6 @@ const pricingFun = (value) => {
           <p class="section-tagline">Our Pricing</p>
           <h1 v-if="fast">Choose the right plan for your business</h1>
           <h2 v-else>Choose the right plan for your business</h2>
-          <p v-if="fast" class="max-lg:mb-10 mt-10 mb-12 max-w-[590px] mx-auto">
-            Until recently, the prevailing view assumed lorem ipsum was born as
-            a nonsense text. It‘s not Latin, though it looks like it
-          </p>
         </div>
 
         

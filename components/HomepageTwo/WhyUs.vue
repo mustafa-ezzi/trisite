@@ -17,7 +17,7 @@ import { faCheck } from "@fortawesome/free-solid-svg-icons";
         <div class="relative max-md:order-1" v-motion-fadeFromLeftAnimation>
           <NuxtImg
             sizes="1000"
-            src="/images/payment/whyUs-bg.png"
+            src="/images/payment/whyUs-bg.jpg"
             alt="hero Image"
             class="inline-block dark:hidden w-full rounded-medium shadow-nav"
           />
@@ -27,22 +27,6 @@ import { faCheck } from "@fortawesome/free-solid-svg-icons";
             alt="hero Image"
             class="hidden dark:inline-block w-full rounded-medium shadow-nav"
           />
-          <div
-            class="absolute left-1/2 -translate-x-1/2 max-lg:w-8/12 mx-auto bottom-2.5 w-[400px] aspect-video"
-          >
-            <NuxtImg
-              sizes="1000"
-              src="/images/payment/whyUs-image.png"
-              alt="hero Image"
-              class="inline-block dark:hidden rounded-t-medium"
-            />
-            <NuxtImg
-              sizes="1000"
-              src="/images/payment/whyUs-image-dark.png"
-              alt="hero Image"
-              class="hidden dark:inline-block rounded-t-medium"
-            />
-          </div>
         </div>
         <div class="relative max-md:order-2">
           <p class="section-tagline">WHY CHOOSE US</p>
@@ -51,10 +35,7 @@ import { faCheck } from "@fortawesome/free-solid-svg-icons";
             Control the flow of<br />
             money easily
           </h2>
-          <p class="max-lg:mt-6 mb-11">
-            Until recently, the prevailing view assumed lorem ipsum was born as a nonsense
-            text nothing Before & After magazine.
-          </p>
+
           <ul
             class="mb-14 [&>*:not(:last-child)]:mb-6 max-lg:[&>*:not(:last-child)]:mb-4"
           >
