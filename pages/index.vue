@@ -1,24 +1,18 @@
 <script setup>
 import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
-import AiHero from "~/components/HomepageEight/AiHero.vue";
-import GetStart from "~/components/HomepageEight/GetStart.vue";
-import AiSteps from "~/components/HomepageEight/AiSteps.vue";
-import RobustFeature from "~/components/HomepageEight/RobustFeature.vue";
-import Pricing from "~/components/Shared/Pricing.vue";
-// import AiIntegration from "~/components/HomepageEight/AiIntegration.vue";
+import Hero from "~/components/HomepageOne/Hero.vue";
+import Clients from "~/components/Shared/Clients.vue";
+import Services from "~/components/Shared/Services.vue";
+import Counter from "~/components/Shared/Counter.vue";
+import Vision from "~/components/HomepageOne/Vision.vue";
+import Solution from "~/components/HomepageOne/Solution.vue";
+import Integration from "~/components/HomepageOne/Integration.vue";
+import Faq from "~/components/HomepageOne/Faq.vue";
 import Testimonial from "~/components/Shared/Testimonial/Testimonial.vue";
-import Footer from "~/components/Footer.vue";
-import WhatSapp from "~/components/HomepageEight/WhatSapp.vue";
-onMounted(() => {
-  const script = document.createElement("script")
-  script.type = "text/javascript"
-  script.async = true
-  script.src = "https://embed.tawk.to/6812868a00e88619103f3a8e/1iq45r45t"
-  script.charset = "UTF-8"
-  script.setAttribute("crossorigin", "*")
-  document.head.appendChild(script)
-})
+import Blog from "~/components/Shared/Blog.vue";
+import Cta from "~/components/Shared/Cta.vue";
+
 useHead({
   title: "Trisite Solutions",
 });
@@ -27,13 +21,16 @@ useHead({
 <template>
   <ThemeSwitcher />
   <SecondaryNav />
-  <AiHero />
-  <GetStart />
-  <AiSteps />
-  <RobustFeature />
-  
-  <Pricing />
+  <Hero />
+  <Clients />
+  <Services />
+  <Counter />
+  <Vision />
+  <Solution />
+  <Integration />
+  <Faq />
   <Testimonial />
+  <Blog class="pb-150" />
+  <Cta title="Start Your Free Trial Today." />
   <Footer />
-  <WhatSapp />
 </template>
