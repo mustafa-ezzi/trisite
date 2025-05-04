@@ -70,12 +70,6 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
               <div
                 class="pt-7 flex items-center border-t border-dashed border-gray-100 dark:border-borderColor-dark"
               >
-                <NuxtImg
-                  sizes="1000"
-                  :src="testimonial.author.image"
-                  alt="avatar"
-                  class="mr-4 rounded-full"
-                />
                 <div class="block">
                   <h3 class="text-base font-semibold">
                     {{ testimonial.author.name }}
