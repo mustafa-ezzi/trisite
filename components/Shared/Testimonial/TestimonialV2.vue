@@ -70,6 +70,7 @@ import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
               <div
                 class="pt-7 flex items-center border-t border-dashed border-gray-100 dark:border-borderColor-dark"
               >
+
                 <div class="block">
                   <h3 class="text-base font-semibold">
                     {{ testimonial.author.name }}
