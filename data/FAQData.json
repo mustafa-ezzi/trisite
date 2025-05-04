@@ -1,37 +1,72 @@
 [
   {
     "id": 1,
-    "type": ["general", "changelog"],
+    "type": ["general", "services"],
     "open": true,
-    "question": "What is a business agency?",
-    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+    "question": "What kind of websites do you build?",
+    "answer": "We build everything from simple portfolios to complex e-commerce platforms, CRMs, and web apps — all tailored to your brand and business goals."
   },
   {
     "id": 2,
-    "type": ["general"],
-    "open": true,
-    "question": "What services does a business agency provide?",
-    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+    "type": ["general", "design"],
+    "open": false,
+    "question": "Do you offer custom design or use templates?",
+    "answer": "We specialize in custom design, but if you're on a budget, we can also work with premium templates. Either way, your site will be 🔥 and user-friendly."
   },
   {
     "id": 3,
-    "type": ["general", "changelog"],
+    "type": ["general", "services"],
     "open": false,
-    "question": "How often should I update my website?",
-    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+    "question": "Can you redesign my existing website?",
+    "answer": "Absolutely! We turn outdated sites into modern, fast, and high-converting machines."
   },
   {
     "id": 4,
-    "type": ["general", "terms"],
+    "type": ["general", "process"],
     "open": false,
-    "question": "How do subscriptions work?",
-    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+    "question": "How long does a project take to complete?",
+    "answer": "Timelines vary based on the project’s complexity, but most websites are delivered in 2–6 weeks."
   },
   {
     "id": 5,
-    "type": ["changelog", "terms"],
+    "type": ["technical", "stack"],
     "open": false,
-    "question": "What other services are you compatible with?",
-    "answer": "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin."
+    "question": "What technologies do you use?",
+    "answer": "We use modern tech stacks like Vue, Nuxt, Angular, React, Node, Laravel, WordPress, and more — always choosing what suits your project best."
+  },
+  {
+    "id": 6,
+    "type": ["services"],
+    "open": false,
+    "question": "Do you provide hosting and domain services?",
+    "answer": "Yes, we can handle everything from domain setup to choosing the best hosting plan."
+  },
+  {
+    "id": 7,
+    "type": ["design", "mobile"],
+    "open": false,
+    "question": "Will my website be mobile-friendly?",
+    "answer": "100%! Everything we build is responsive and optimized for all devices — because mobile is king 👑."
+  },
+  {
+    "id": 8,
+    "type": ["support", "post-launch"],
+    "open": false,
+    "question": "What if I need help after launch?",
+    "answer": "We got you! Our support team is here for regular maintenance, updates, bug fixes, or feature upgrades."
+  },
+  {
+    "id": 9,
+    "type": ["cms", "general"],
+    "open": false,
+    "question": "Can I update my website content myself?",
+    "answer": "Yes — especially if you choose WordPress or a custom CMS. We make sure you're in full control."
+  },
+  {
+    "id": 10,
+    "type": ["seo", "marketing"],
+    "open": false,
+    "question": "Do you offer SEO or digital marketing services?",
+    "answer": "We provide basic SEO and can connect you with trusted partners for full-scale digital marketing."
   }
 ]

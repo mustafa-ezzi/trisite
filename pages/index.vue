@@ -31,6 +31,7 @@ useHead({
   <GetStart />
   <AiSteps />
   <RobustFeature />
+  
   <Pricing />
   <Testimonial />
   <Footer />
