@@ -18,7 +18,7 @@ import Footer from "~/components/Footer.vue";
   <GetStart />
   <AiSteps />
   <RobustFeature />
-  <Pricing />
+  <Pricing />   
   <!-- <AiIntegration /> -->
   <Testimonial />
   <Footer />
