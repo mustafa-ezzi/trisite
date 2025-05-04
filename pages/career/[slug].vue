@@ -2,7 +2,6 @@
 import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import PageHero from "~/components/Shared/PageHero.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import BgWithCustomGradient from "~/components/Shared/BgWithCustomGradient.vue";
 import Footer from "~/components/Footer.vue";
 import NotFound from "~/components/NotFound.vue";
@@ -117,6 +116,5 @@ import NotFound from "~/components/NotFound.vue";
     </template>
   </ContentDoc>
 
-  <CtaV3 />
   <Footer />
 </template>

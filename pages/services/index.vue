@@ -5,7 +5,6 @@ import PageHero from "~/components/Shared/PageHero.vue";
 import Services from "~/components/Shared/Services.vue";
 import MemberCounter from "~/components/Shared/MemberCounter.vue";
 import Pricing from "~/components/Shared/Pricing.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({

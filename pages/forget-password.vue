@@ -1,7 +1,6 @@
 <script setup>
 import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 </script>
 
@@ -70,6 +69,5 @@ import Footer from "~/components/Footer.vue";
       </div>
     </div>
   </section>
-  <CtaV3 />
   <Footer />
 </template>

@@ -3,7 +3,6 @@ import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import PageHero from "~/components/Shared/PageHero.vue";
 import Accordion from "~/components/Accordion.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 useHead({
   title: "Faq Page - Trisite Solution FAQ Page",
@@ -37,7 +36,6 @@ useHead({
         <Accordion />
       </div>
     </section>
-    <CtaV3 />
     <Footer />
   </div>
 </template>

@@ -11,7 +11,6 @@ import Team from "~/components/HomepageThree/Team.vue";
 import Counter from "~/components/Shared/Counter.vue";
 import Pricing from "~/components/Shared/Pricing.vue";
 import FaqV2 from "~/components/HomepageThree/FaqV2.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({
@@ -32,6 +31,5 @@ useHead({
   <Counter />
   <Pricing />
   <FaqV2 />
-  <CtaV3 />
   <Footer />
 </template>

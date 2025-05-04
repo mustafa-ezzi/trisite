@@ -5,7 +5,6 @@ import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import SingleService from "~/components/ServicesPage/SingleService.vue";
 import MemberCounter from "~/components/Shared/MemberCounter.vue";
 import Pricing from "~/components/Shared/Pricing.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 const route = useRoute();
@@ -23,7 +22,6 @@ useHead({
     <SingleService :data="data" />
     <MemberCounter />
     <Pricing />
-    <CtaV3 class="pt-150" />
     <Footer />
   </div>
 </template>

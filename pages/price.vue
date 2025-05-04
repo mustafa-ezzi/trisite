@@ -3,7 +3,6 @@ import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import Pricing from "~/components/Shared/Pricing.vue";
 import Counter from "~/components/Shared/Counter.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 import WhyChoicesFirstFeature from "~/components/Shared/WhyChoicesFirstFeature.vue";
 import FaqV2 from "~/components/HomepageThree/FaqV2.vue";
@@ -20,6 +19,5 @@ useHead({
   <Counter />
   <WhyChoicesFirstFeature />
   <FaqV2 />
-  <CtaV3 />
   <Footer />
 </template>

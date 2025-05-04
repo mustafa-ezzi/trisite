@@ -1,7 +1,6 @@
 <script setup>
 import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({
@@ -34,6 +33,5 @@ useHead({
       <ContentDoc />
     </div>
   </section>
-  <!-- <CtaV3 /> -->
   <Footer />
 </template>

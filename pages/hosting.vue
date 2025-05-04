@@ -9,7 +9,6 @@ import ServiceCardWithLeftText from "~/components/HomepageFour/ServiceCardWithLe
 import Testimonial from "~/components/Shared/Testimonial/Testimonial.vue";
 import EasyStepFeature from "~/components/HomepageFive/EasyStepFeature.vue";
 import Blog from "~/components/Shared/Blog.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({
@@ -28,6 +27,5 @@ useHead({
   <Testimonial />
   <EasyStepFeature />
   <Blog class="pb-150" />
-  <CtaV3 />
   <Footer />
 </template>

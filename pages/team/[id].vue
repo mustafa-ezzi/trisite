@@ -3,7 +3,6 @@ import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import SingleTeam from "~/components/Shared/SingleTeam.vue";
 import TeamContact from "~/components/Shared/TeamContact.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 import teamData from "~/data/teamData.json";
 
@@ -22,6 +21,5 @@ useHead({
   <SecondaryNav />
   <SingleTeam :data="data" />
   <TeamContact />
-  <CtaV3 />
   <Footer />
 </template>

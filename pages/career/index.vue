@@ -5,7 +5,6 @@ import PageHero from "~/components/Shared/PageHero.vue";
 import CareerBanner from "~/components/CareerPage/CareerBanner.vue";
 import ValueFeature from "~/components/AboutPage/ValueFeature.vue";
 import CareerPosition from "~/components/CareerPage/CareerPosition.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({
@@ -23,6 +22,5 @@ const careerData = data.value;
   <CareerBanner />
   <ValueFeature />
   <CareerPosition :careerData="careerData" />
-  <CtaV3 />
   <Footer />
 </template>

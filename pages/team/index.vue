@@ -6,7 +6,6 @@ import OurTeam from "~/components/Shared/OurTeam.vue";
 import Counter from "~/components/Shared/Counter.vue";
 import TestimonialSlider from "~/components/Shared/Testimonial/TestimonialSlider.vue";
 import FaqV2 from "~/components/HomepageThree/FaqV2.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 
 useHead({
@@ -26,6 +25,5 @@ useHead({
   <Counter />
   <TestimonialSlider />
   <FaqV2 />
-  <CtaV3 />
   <Footer />
 </template>

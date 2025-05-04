@@ -4,7 +4,6 @@ import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import PageHero from "~/components/Shared/PageHero.vue";
 import ContactInfo from "~/components/CareerPage/ContactInfo.vue";
 import TeamContact from "~/components/Shared/TeamContact.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 import FaqV2 from "~/components/HomepageThree/FaqV2.vue";
 
@@ -27,7 +26,6 @@ useHead({
     <ContactInfo />
     <TeamContact />
     <FaqV2/>
-    <!-- <CtaV3 /> -->
     <Footer />
   </div>
 </template>

@@ -4,7 +4,6 @@ import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import PageHero from "~/components/Shared/PageHero.vue";
 import TestimonialV2 from "~/components/Shared/Testimonial/TestimonialV2.vue";
 import Pricing from "~/components/Shared/Pricing.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 import Footer from "~/components/Footer.vue";
 import Marquee from "~/components/Shared/Marquee.vue";
 
@@ -25,6 +24,5 @@ useHead({
     <Marquee />
   </div>
   <Pricing />
-  <CtaV3 class="pt-150" />
   <Footer />
 </template>

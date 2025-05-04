@@ -2,7 +2,6 @@
 import SecondaryNav from "~/components/Navbar/SecondaryNav.vue";
 import ThemeSwitcher from "~/components/ThemeSwitcher.vue";
 import Footer from "~/components/Footer.vue";
-import CtaV3 from "~/components/HomepageThree/CtaV3.vue";
 
 useHead({
   title: "Terms - Trisite Solution Terms Page",
@@ -34,6 +33,5 @@ useHead({
       <ContentDoc />
     </div>
   </section>
-  <CtaV3 />
   <Footer />
 </template>
