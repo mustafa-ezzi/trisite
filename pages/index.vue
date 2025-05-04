@@ -20,7 +20,7 @@ onMounted(() => {
   document.head.appendChild(script)
 })
 useHead({
-  title: "Trisite Solutions",
+  title: "Trisite Solutions | Edit, Host, Optimize, Succeed",
 });
 </script>
 
