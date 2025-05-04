@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "number": "25",
+    "number": "85",
     "rightIcon": "%",
     "text": "Project Completed"
   },
   {
     "id": 2,
-    "number": "10",
+    "number": "15",
     "rightIcon": "+",
     "text": "Team Members"
   },
   {
     "id": 3,
-    "number": "2",
+    "number": "2.5",
     "rightIcon": "K",
     "text": "Satisfied Clients"
   }
