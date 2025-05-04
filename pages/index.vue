@@ -9,6 +9,19 @@ import Pricing from "~/components/Shared/Pricing.vue";
 // import AiIntegration from "~/components/HomepageEight/AiIntegration.vue";
 import Testimonial from "~/components/Shared/Testimonial/Testimonial.vue";
 import Footer from "~/components/Footer.vue";
+import WhatSapp from "~/components/HomepageEight/WhatSapp.vue";
+onMounted(() => {
+  const script = document.createElement("script")
+  script.type = "text/javascript"
+  script.async = true
+  script.src = "https://embed.tawk.to/6812868a00e88619103f3a8e/1iq45r45t"
+  script.charset = "UTF-8"
+  script.setAttribute("crossorigin", "*")
+  document.head.appendChild(script)
+})
+useHead({
+  title: "Trisite Solutions",
+});
 </script>
 
 <template>
@@ -22,4 +35,5 @@ import Footer from "~/components/Footer.vue";
   <!-- <AiIntegration /> -->
   <Testimonial />
   <Footer />
+  <WhatSapp />
 </template>
