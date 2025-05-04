@@ -24,7 +24,13 @@ import FadeUpOneByOneAnimation from "~/data/FadeUpOneByOneAnimation.vue";
             y: 0,
             opacity: 1,
           }" :duration="400" :delay="i * 200">
-          <img src="../../assets/about1.png" alt="about images" class="rounded w-full" />
+          <!-- <img src="../../assets/about1.png" alt="about images" class="rounded w-full" /> -->
+          <NuxtImg
+          sizes="100"
+          src="/images/about1.png"
+          alt="footer-seperator"
+          class="rounded w-full"
+        />
         </div>
 
         <div v-motion class="p-2.5 bg-white dark:bg-dark-200 rounded-medium overflow-hidden shadow-box"
@@ -32,14 +38,26 @@ import FadeUpOneByOneAnimation from "~/data/FadeUpOneByOneAnimation.vue";
             y: 0,
             opacity: 1,
           }" :duration="400" :delay="i * 200">
-          <img src="../../assets/about2.png" alt="about images" class="rounded w-full" />
+          <!-- <img src="../../assets/about2.png" alt="about images" class="rounded w-full" /> -->
+          <NuxtImg
+          sizes="100"
+          src="/images/about2.png"
+          alt="footer-seperator"
+          class="rounded w-full"
+        />
         </div>
         <div v-motion class="p-2.5 bg-white dark:bg-dark-200 rounded-medium overflow-hidden shadow-box"
           :initial="{ y: 70, opacity: 0, delay: 300 }" :enter="{
             y: 0,
             opacity: 1,
           }" :duration="400" :delay="i * 200">
-          <img src="../../assets/about3.png" alt="about images" class="rounded w-full" />
+          <!-- <img src="../../assets/about3.png" alt="about images" class="rounded w-full" /> -->
+          <NuxtImg
+          sizes="100"
+          src="/images/about3.png"
+          alt="footer-seperator"
+          class="rounded w-full"
+        />
         </div>
 
       </div>
