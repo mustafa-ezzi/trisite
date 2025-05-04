@@ -9,8 +9,7 @@
       "date": "Feb 03, 2021",
       "author": {
         "name": "Charles David",
-        "designation": "Marketing Manager",
-        "image": "../"
+        "designation": "Marketing Manager"
       }
     },
     {
@@ -22,8 +21,7 @@
       "date": "jan 04, 2022",
       "author": {
         "name": "Guy Hawkins",
-        "designation": "Operations Head",
-        "image": "/images/testimonial/avatar2.png"
+        "designation": "Operations Head"
       }
     },
     {
@@ -35,8 +33,7 @@
       "date": "july 12, 2022",
       "author": {
         "name": "Cody Fisher",
-        "designation": "Business Strategist",
-        "image": "/images/testimonial/avatar3.png"
+        "designation": "Business Strategist"
       }
     },
     {
@@ -48,8 +45,7 @@
       "date": "apr 13, 2023",
       "author": {
         "name": "Sarrah Faisal",
-        "designation": "Product Manager",
-        "image": "/images/testimonial/avatar4.png"
+        "designation": "Product Manager"
       }
     },
     {
@@ -61,8 +57,7 @@
       "date": "nov 23, 2022",
       "author": {
         "name": "Hatim Mustafa",
-        "designation": "Junior Designer",
-        "image": "/images/testimonial/avatar5.png"
+        "designation": "Junior Designer"
       }
     },
     {
@@ -74,8 +69,7 @@
       "date": "march 07, 2023",
       "author": {
         "name": "Javaid Munawwar",
-        "designation": "Entrepreneur",
-        "image": "/images/testimonial/avatar6.png"
+        "designation": "Entrepreneur"
       }
     },
     {
@@ -87,10 +81,9 @@
       "date": "jul 17, 2024",
       "author": {
         "name": "Emily Carter",
-        "designation": "Digital Marketing Consultant (UK)",
-        "image": "/images/testimonial/avatar6.png"
-      }
-    },
+        "designation": "Digital Marketing Consultant (UK)"
+    }
+  },
     {
       "id": 8,
       "logoLight": "/images/testimonial/coolchat.svg",
@@ -100,8 +93,7 @@
       "date": "sept 07, 2024",
       "author": {
         "name": "Hira Sheikh",
-        "designation": "EntreBusiness Owner",
-        "image": "/images/testimonial/avatar6.png"
+        "designation": "EntreBusiness Owner"
       }
     },
     {
@@ -113,8 +105,7 @@
       "date": "oct 15, 2024",
       "author": {
         "name": "Daniel Lee",
-        "designation": "Startup Founder",
-        "image": "/images/testimonial/avatar6.png"
+        "designation": "Startup Founder"
       }
     },
     {
@@ -126,8 +117,7 @@
       "date": "march 05, 2025",
       "author": {
         "name": "Ahsan Tariq",
-        "designation": "IT Manager",
-        "image": "/images/testimonial/avatar6.png"
+        "designation": "IT Manager"
       }
     }
   ]
