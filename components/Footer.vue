@@ -63,7 +63,7 @@ import Behance from "./Icons/SocialSvg/FooterSvg/behance.vue";
           </p>
           <ul class="flex items-center max-lg:justify-center social-link gap-4">
             <li>
-              <a href="#" class="transiton-all">
+              <a href="https://www.instagram.com/trisite.solutions/" class="transiton-all">
                 <FooterFacebookVue />
               </a>
             </li>
@@ -71,7 +71,7 @@ import Behance from "./Icons/SocialSvg/FooterSvg/behance.vue";
               <a href="https://github.com/mustafa-ezzi/"><Github /> </a>
             </li>
             <li>
-              <a href="#">
+              <a href="http://www.fiverr.com/s/yvB8rjG">
                 <Linkedin />
               </a>
             </li>
