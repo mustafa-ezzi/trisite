@@ -7,52 +7,45 @@
       </div>
       <div class="relative z-10 max-w-[850px] mx-auto">
         <div
-          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex -z-10 max-lg:max-w-full max-md:hidden"
-        >
+          class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex -z-10 max-lg:max-w-full max-md:hidden">
           <div class="w-[442px] h-[442px] rounded-full bg-primary-200/20 blur-[145px]"></div>
           <div class="w-[442px] h-[442px] rounded-full bg-primary-200/25 -ml-[170px] blur-[145px]"></div>
           <div class="w-[442px] h-[442px] rounded-full bg-primary-200/20 -ml-[170px] blur-[145px]"></div>
         </div>
 
         <div class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav">
-          <div class="bg-white dark:bg-dark-200 border border-dashed rounded border-gray-100 dark:border-borderColor-dark p-12 max-md:p-5">
+          <div
+            class="bg-white dark:bg-dark-200 border border-dashed rounded border-gray-100 dark:border-borderColor-dark p-12 max-md:p-5">
             <form @submit.prevent="sendEmail" ref="contactForm">
               <div class="grid grid-cols-12 max-md:gap-y-10 md:gap-x-12 md:gap-8">
                 <div class="max-md:col-span-full md:col-span-6">
                   <label for="name" class="block text-sm font-medium text-paragraph dark:text-white mb-2">
                     Your name
                   </label>
-                  <input
-                    type="text"
-                    name="name"
-                    placeholder="Name"
-                    required
-                    class="block w-full text-sm rounded-[48px] border py-2.5 px-5"
-                  />
+                  <input type="text" name="name" placeholder="Name" required
+                    class="block w-full text-sm rounded-[48px] border py-2.5 px-5" />
                 </div>
+                <div class="max-md:col-span-full md:col-span-6">
+                  <label for="phone" class="block text-sm font-medium text-paragraph dark:text-white mb-2">
+                    Your Phone
+                  </label>
+                  <input type="tel" name="user_phone" placeholder="Phone Number" required
+                    class="block w-full text-sm rounded-[48px] border py-2.5 px-5" />
+                </div>
+
                 <div class="max-md:col-span-full md:col-span-6">
                   <label for="email" class="block text-sm font-medium text-paragraph dark:text-white mb-2">
                     Your Email
                   </label>
-                  <input
-                    type="email"
-                    name="user_email"
-                    placeholder="Email"
-                    required
-                    class="block w-full text-sm rounded-[48px] border py-2.5 px-5"
-                  />
+                  <input type="email" name="user_email" placeholder="Email" required
+                    class="block w-full text-sm rounded-[48px] border py-2.5 px-5" />
                 </div>
                 <div class="col-span-full">
                   <label for="message" class="block text-sm font-medium text-paragraph dark:text-white mb-2">
                     Message
                   </label>
-                  <textarea
-                    name="message"
-                    rows="10"
-                    placeholder="Type your message"
-                    required
-                    class="block w-full text-sm rounded border py-2.5 px-5 resize-none"
-                  ></textarea>
+                  <textarea name="message" rows="10" placeholder="Type your message" required
+                    class="block w-full text-sm rounded border py-2.5 px-5 resize-none"></textarea>
                 </div>
 
                 <!-- Pass current time to EmailJS -->
@@ -67,12 +60,8 @@
         </div>
       </div>
     </div>
-    <div
-      v-if="showSnackbar"
-      :class="`fixed bottom-5 left-1/2 transform -translate-x-1/2 px-6 py-3 rounded-lg text-white shadow-lg transition-all duration-300 ${
-        snackbarType === 'success' ? 'bg-green-600' : 'bg-red-600'
-      }`"
-    >
+    <div v-if="showSnackbar" :class="`fixed bottom-5 left-1/2 transform -translate-x-1/2 px-6 py-3 rounded-lg text-white shadow-lg transition-all duration-300 ${snackbarType === 'success' ? 'bg-green-600' : 'bg-red-600'
+      }`">
       {{ snackbarMessage }}
     </div>
   </section>
@@ -127,5 +116,3 @@ function sendEmail() {
 }
 
 </script>
-
-  
