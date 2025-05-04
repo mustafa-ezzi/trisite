@@ -2,36 +2,80 @@
 title: Privacy Policy
 ---
 
-At Aplio, we take your privacy seriously. This privacy policy explains how we collect, use, and protect your personal information.
+# 🔒 Privacy Policy  
+**Effective Date: May 4, 2021**
 
-### Information We Collect
+At Trisite Solutions, we respect your privacy — simple as that. Whether you're just browsing or reaching out for services, we want you to feel confident that your data is safe with us.
 
-We collect personal information that you provide to us such as your name, email address, and phone number when you submit a contact form or sign up for our newsletter. We also collect information about your visit to our website, including your IP address, browser type, and the pages you visit.
+This page explains what we collect, why we collect it, and what we do (and don’t do) with it.
 
-### Use of Information
+## 📥 What Information We Collect
 
-We use the information we collect to provide you with our services, respond to your inquiries, and send you marketing communications. We may also use your information to improve our website and to comply with legal obligations.
+We may collect a few types of information to provide a better experience:
 
-### Protection of Information
+- **Basic Contact Details**: Like your name, email address, and phone number when you fill out a form or reach out to us.
+- **Website Usage Info**: Things like your IP address, browser type, and the pages you visit — collected automatically through cookies and analytics tools.
 
-We take appropriate measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. We use industry-standard security measures such as SSL encryption to protect your data during transmission.
+We don’t collect sensitive personal data (like passwords, banking info, etc.) unless you provide it for a specific reason.
 
-### Disclosure of Information
+## 🎯 Why We Collect It
 
-We do not share your personal information with third parties except as required by law or as necessary to provide our services. We may share your information with our trusted partners who assist us in operating our website or providing our services.
+We only use your information for legit reasons like:
 
-### Cookies
+- Responding to your queries or messages  
+- Sending updates if you’ve subscribed (no spam, pinky promise)  
+- Improving how our website works and feels  
+- Keeping everything secure and legally compliant  
 
-We use cookies and other similar technologies to collect information about your visit to our website. You may disable cookies in your browser settings, but please note that some features of our website may not function properly without cookies.
+## 🧯 How We Protect Your Data
 
-### Your Rights
+Security isn’t optional for us. We use:
 
-You have the right to access, update, and delete your personal information. You may also object to our use of your personal information for marketing purposes. If you wish to exercise any of these rights, please contact us using the information below.
+- SSL encryption to keep your connection private  
+- Regular security checks and updates  
+- Access restrictions so only authorized people can view your data  
 
-### Updates to Privacy Policy
+Basically: we don’t mess around with security.
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on our website. You are advised to review this privacy policy periodically for any changes.
+## 🙅‍♂ What We Don’t Do
 
-### Contact Us
+- We **don’t sell** your data. Ever.  
+- We **don’t spam** you with irrelevant content.  
+- We **don’t share** your info unless it’s necessary (like with trusted services helping us run the site, or if law requires it).
 
-If you have any questions or concerns about this privacy policy or our use of your personal information, please contact us at [coantct](hello@aplio.com).
+## 🍪 Cookies
+
+Yeah, we use cookies — but the digital kind 🍪
+
+Cookies help us:
+
+- Understand how you use the site  
+- Remember preferences (like dark/light mode)  
+- Improve performance  
+
+If you want, you can block cookies from your browser settings. The site will still work — just maybe not as smooth.
+
+## 🧾 Your Rights
+
+You’re in control of your data. You can:
+
+- Ask us what data we have on you  
+- Request changes or deletion  
+- Opt out of any future communications  
+
+Just send us an email at **website@trisitesolutions.com** and we’ll sort it out, no stress.
+
+## 🔁 Changes to This Policy
+
+We may update this page if laws change or if we launch new features. Any major changes? We’ll highlight them right here.
+
+We recommend checking this page once in a while to stay updated.
+
+## 📬 Contact Us
+
+Got a concern? Question? Compliment? Hit us up:
+
+**Trisite Solutions**  
+📧 Email: [website@trisitesolutions.com](mailto:website@trisitesolutions.com)  
+🌐 Website: [trisitesolutions.com](https://trisitesolutions.com)  
+📞 Phone: ‪+92 3192589661‬

@@ -25,7 +25,7 @@ useHead({
     />
     <ContactInfo />
     <TeamContact />
-    <CtaV3 />
+    <!-- <CtaV3 /> -->
     <Footer />
   </div>
 </template>

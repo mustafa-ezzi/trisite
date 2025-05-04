@@ -34,6 +34,6 @@ useHead({
       <ContentDoc />
     </div>
   </section>
-  <CtaV3 />
+  <!-- <CtaV3 /> -->
   <Footer />
 </template>
